@@ -5,7 +5,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Geral
 
-Este repositório contem todos os aqruivos necessários para a filtragem e naálise de variantes de Mielofibrose. Nele, estão contidos os dados anotados para análise, o script de filtragem e arquivos extras.
+Este repositório contem todos os aqruivos necessários para a filtragem e análise de variantes de Mielofibrose. Nele, estão contidos os dados anotados para análise, o script de filtragem e arquivos extras.
 
 Os códigos referenciados neste repositório foram feitos para serem utilizados em notebooks jupyter, ou google colab.
 
