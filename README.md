@@ -15,7 +15,7 @@ Para clonar este repositório utilize o código:
 
 ```
 %%bash
-https://github.com/clarasgusmao/somatic_variantfilter.git
+git clone https://github.com/clarasgusmao/somatic_variantfilter.git
 ```
 
 ## 2. Instalação das Ferramentas Necessárias
