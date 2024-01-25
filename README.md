@@ -47,7 +47,7 @@ pip install udocker
 udocker --allow-root install
 ```
 
-### Download da imagem do ensembl-vep
+### c) Download da imagem do ensembl-vep
 Ensembl vep é um conjunto de ferramentas para predição de impactos de variantes. Neste workflow, usaremos o comando de filtragem do vep, para filtrar as variáveis de interesse. Como o udocker foi instalado, é possível fazer o download da imagem do vep usando udocker --allow-root pull.
 
 Mais informações: https://grch37.ensembl.org/info/docs/tools/vep/index.html
