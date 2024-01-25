@@ -15,7 +15,7 @@ Para clonar este repositório utilize o código:
 
 ```
 %%bash
-[git clone https://github.com/Gnoogit/somatico_2024.git](https://github.com/clarasgusmao/somatic_variantfilter.git)
+git clone https://github.com/Gnoogit/somatico_2024.git
 ```
 
 ## 2. Instalação das Ferramentas Necessárias
